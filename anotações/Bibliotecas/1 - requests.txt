@@ -1,0 +1,8 @@
+                                     Requests
+__________________________________________________________________________________
+
+É uma biblioteca que faz requisições http simples.
+
+variavel.resquest.get(<url/ip>) = faz uma requisição get para o site 
+variavel.status.code = verifica a resposta do servidor (exemplo = 200, 404)
+__________________________________________________________________________________

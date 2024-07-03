@@ -1,0 +1,28 @@
+                                   Data Types
+__________________________________________________________________________________
+
+Tipo de texto: str
+Tipos numéricos: int, float, complex
+Tipos de sequência: list, tuple, range
+Tipo de mapeamento: dict
+Tipos de conjunto: set, frozenset
+Tipo booleano: bool
+Tipos binários: bytes, bytearray, memoryview
+Nenhum tipo: NoneType
+
+x = str("Hello World") = str
+x = int(20) = int 	
+x = float(20.5) = float 	
+x = complex(1j) = complex 	
+x = list["one", "two", "go] = list 	
+x = tuple("one" "two", "go") = tuple 	
+x = range(6) = range 	
+x = dict{"name" : "John", "age": 36} = dict 	
+x = set{apple", "two", "go"} = set 	
+x = frozenset({"one", "two", "go"}) = frozenset 	
+x = bool(5) = bool 	
+x = bytes(5) = bytes 	
+x = bytearray(5) = bytearray 	
+x = memoryview(bytes(5)) = memoryview
+x = None = NoneType
+__________________________________________________________________________________
